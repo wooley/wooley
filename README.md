@@ -6,9 +6,9 @@
 - 🤔 = "I focus on server tech";
 - 🌟 = "I love photography and  wonderful things";
 - 🔨 = "I use C plus plus (in serious work), JavaScript, etc.";
-- 🦀 = "I am currently learning Swift and other interesting techniques";
+- 🦀 = "I am currently learning Go and other interesting techniques";
 - 📂 = "I work at Datawin, and before that I was at Bestlink";
-- 💬 = "I am active on Twitter (@wooleygu), DMs are welcomed";
+- 💬 = "I am active on Twitter (@Diablo_gu), DMs are welcomed";
 - 🤫 = "Fun fact: I want to be a good vlogger";
 
 
